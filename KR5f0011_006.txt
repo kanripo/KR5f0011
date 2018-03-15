@@ -4,7 +4,10 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
-¶
+¶<md:KR5f0011_HFL_006-001a>¶
+<pb:KR5f0011_SBCK_005-1a>
+韓非子卷第六
+
 　　　解老第二十¶
 德者内也得者外也上德不德言其神不⬤¶於外也神不淫於
 外則身全身全之謂德德¶者得身也凡德者以無爲集以無欲
