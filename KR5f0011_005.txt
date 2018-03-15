@@ -4,6 +4,7 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+<pb:KR5f0011_SBCK_004-13b>
 韓非子卷第<md:KR5f0011_HFL_005-001a>¶五
 　　　亡徵第十五¶　三守第十六
 　　　備内第十七　南靣第十八
