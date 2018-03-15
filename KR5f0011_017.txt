@@ -4,7 +4,9 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 17
-¶
+¶<md:KR5f0011_HFL_017-001a>¶
+<pb:KR5f0011_SBCK_016-1a>
+韓非子卷第十七
 　　　難勢第四十¶　問辯第四十一
 　　　問田第四十二　定法第四十三
 　　　說疑第四十四　詭使第四十五
@@ -319,9 +321,4 @@
 人頼賞而富是以¶上不勝下也
 <pb:KR5f0011_SBCK_016-12b>
 韓非子卷第十七¶¶¶¶¶¶
-<md:KR5f0011_HFL_018-001a>¶
-<pb:KR5f0011_SBCK_017-1a>
-韓非子卷第十八
-　　　六¶反第四十六　八説第四十七
-　　八經第四十八
 　
