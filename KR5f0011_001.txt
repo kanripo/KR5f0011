@@ -4,9 +4,9 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
-<pb:KR5f0011_SBCK_000-17b>
 <md:KR5f0011_HFL_001-001a>¶
 <pb:KR5f0011_SBCK_001-1a>
+# SB1_0350-012.png
 韓非子卷第一¶
 　　　初見秦第一　存韓第二
 　　　難言第三　愛臣第四
@@ -255,9 +255,4 @@
 賞誠有過則雖近愛必誅近¶愛必誅則䟽賤者不怠而近愛者
 不驕也¶
 韓非子卷第一¶
-<md:KR5f0011_HFL_002-001a>¶
-<pb:KR5f0011_SBCK_002-1a>
-韓非子卷第二
-　　　有度第六　二¶柄第七
-　　　⬤權第八　八姦第九
 　　
